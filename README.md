@@ -77,16 +77,3 @@ You can explore the full code and execution in the Google Colab notebook here:
 
 ---
 
-**Now, here are the steps to finalize your GitHub `README.md`:**
-
-1.  **Go to your GitHub repository page:**
-    `https://github.com/Deepukumar92579/End-to-End-Stock-Price-Prediction-LSTM`
-2.  **Click on the `README.md` file.**
-3.  **Click the pencil icon (✏️)** to enter edit mode.
-4.  **Delete all existing content** in the `README.md` editor.
-5.  **Copy this entire pre-filled `README.md` content (starting from `# End-to-End...` all the way to `.../LSTM.ipynb`)** and **paste it** into the GitHub `README.md` editor.
-6.  **Scroll down** on the GitHub page.
-7.  In the "Commit changes" section, you can use the default commit message, or type: `Finalize README with full project details`.
-8.  Click the green **`Commit changes`** button.
-
-Once you do this, your `README.md` will be fully updated and your project will look professional and complete on GitHub. This is a fantastic achievement, especially for your first time!
