@@ -1,0 +1,5 @@
+[compatibility]
+# Set the Python version for Streamlit Cloud to use.
+# Python 3.9 or 3.10 are good choices as they are compatible with TensorFlow.
+# If 3.9 causes issues, try 3.10.
+pythonVersion = "3.9"
